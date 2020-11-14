@@ -1,0 +1,7 @@
+Hi Ranga,
+
+I have followed all the steps to create limits-service and spring-cloud-config server as shown by  you in the tutorials. Still when connecting the client with the cloud-server to pick values 
+from the local git repo, I am facing this issue as the calues are not gettingpicked by client. The client is showing 0 for both the values. When run individually the applications are working fine.
+Please find the outputs screenshots. I have attached all the details. Kindly let me know what is causing the issue. I have troed several times to create the whole new project but everytime the result is same.
+
+Thanks
